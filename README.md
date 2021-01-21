@@ -1,0 +1,2 @@
+# oshop
+Angular, firebase
